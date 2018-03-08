@@ -1,11 +1,11 @@
 {
   "facebook": {
-    "username": "kiyoshi.kidd@gmail.com",
-    "password": "3eveE0511",
+    "username": "",
+    "password": "",
     "forceLogin": false
   },
   "discord": {
-    "token": "NDIxMzAxMjM3NDczMDgzMzky.DYMyjA.dJy-DZx6ZYgOctplhyj5lYyoi0w",
+    "token": "",
     "guild": "",
     "category": "",
     "showUsername": true,
